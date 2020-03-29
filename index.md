@@ -14,7 +14,7 @@ This approach will allow stakeholders to focus the testing process more accurate
 
 Similar projects are already up and running in the US and UK.
 
-US:  [Link] https://www.nytimes.com/2020/03/18/health/coronavirus-fever-thermometers.html   
-UK:  [Link] https://covid.joinzoe.com/
+[US](https://www.nytimes.com/2020/03/18/health/coronavirus-fever-thermometers.html)   
+[UK](https://covid.joinzoe.com/)
 
-The original proposal for this project can be found here: https://docs.google.com/document/d/1JXI2vUBu68J_bdkM9nVe8BdtGIpTyCnXGTtsMx1S55Y/edit?usp=sharing
+The original proposal for this project [can be found here](https://docs.google.com/document/d/1JXI2vUBu68J_bdkM9nVe8BdtGIpTyCnXGTtsMx1S55Y/edit?usp=sharing)
