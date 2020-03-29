@@ -11,3 +11,10 @@ If we can collect a temperature DAILY from a large number of people we can map c
 Substantial take up will make up for any quirks and issues with the data. People just need to make their best effort. It does not need to be perfect to work effectively. 
 
 This approach will allow stakeholders to focus the testing process more accurately and economically.  People are locked down at present so there will be defined clusters. Health services can do focused mobile testing in areas where we see confirmed and emergent clusters and have it done faster. This can help stop propagation of clusters and help identify asymptomatic carriers. 
+
+Similar projects are already up and running in the US and UK.
+
+US:  https://www.nytimes.com/2020/03/18/health/coronavirus-fever-thermometers.html   
+UK:  https://covid.joinzoe.com/
+
+The original proposal for this project can be found here: https://docs.google.com/document/d/1JXI2vUBu68J_bdkM9nVe8BdtGIpTyCnXGTtsMx1S55Y/edit?usp=sharing
