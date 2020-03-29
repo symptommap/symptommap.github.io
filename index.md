@@ -1,1 +1,1 @@
-The Symtom Map project.
+The Symptom Map project.
