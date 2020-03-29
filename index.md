@@ -1,4 +1,4 @@
-The Symptom Map project.
+The Symptom Map Project.
 
 The intention of this project is to use real time data to geographically map existing and emerging clusters of COVID 19 infections in real time using self reporting of temperature through smartphones.
 
